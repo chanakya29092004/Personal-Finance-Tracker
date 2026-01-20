@@ -3,7 +3,7 @@
 ## ✅ **Current Status: SECURE**
 
 ### **Google Gemini API: ACTIVE** 
-- API Key: `AIzaSyBETy_IPMN9m-PYH6p80cvWliSkAWPg7D8`
+- API Key: 'buy the paid ali keys'
 - Status: ✅ Configured in environment variables
 - Location: `client/.env` 
 - Security: ✅ File is git-ignored, won't be committed
